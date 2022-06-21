@@ -1,3 +1,3 @@
-0x05. Python - Exceptions
+0x06. Python - Classes
 
-Foundations - Higher-level programming Python
+Python - Classes and Objects
